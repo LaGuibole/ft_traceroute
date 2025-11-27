@@ -6,7 +6,7 @@
 /*   By: guphilip <guphilip@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/27 13:02:35 by guphilip          #+#    #+#             */
-/*   Updated: 2025/11/27 13:03:28 by guphilip         ###   ########.fr       */
+/*   Updated: 2025/11/27 15:21:40 by guphilip         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,5 +29,7 @@
 #include <math.h>
 #include <float.h>
 #include <signal.h>
+#include "parser.h"
+#include "traceroute.h"
 
 #endif
