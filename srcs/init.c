@@ -1,19 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   init.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: guphilip <guphilip@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/27 13:02:04 by guphilip          #+#    #+#             */
-/*   Updated: 2025/11/27 16:31:07 by guphilip         ###   ########.fr       */
+/*   Created: 2025/11/27 15:32:23 by guphilip          #+#    #+#             */
+/*   Updated: 2025/11/27 15:33:20 by guphilip         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "linker.h"
 
-int main(int argc, char **argv)
+int init_sockets(t_sockets sockets)
 {
-    
-    return 0;
+    sockets.udpfd = 0;
+    sockets.icmpfd = 0;   
 }
