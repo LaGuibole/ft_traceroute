@@ -30,4 +30,8 @@
 #include <float.h>
 #include <signal.h>
 
+
+#include "args.h"
+#include "libft.h"
+
 #endif
