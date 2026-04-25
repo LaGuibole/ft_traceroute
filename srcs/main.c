@@ -33,6 +33,5 @@ int main(int argc, char **argv)
 	// ft_printf("first_ttl		: %d\n", args.first_ttl);
 	// ft_printf("no_dns			: %d\n", args.no_dns);
 
-
 	return (0);
 }
