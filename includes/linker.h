@@ -33,5 +33,6 @@
 
 #include "args.h"
 #include "libft.h"
+#include "ft_traceroute.h"
 
 #endif
