@@ -4,7 +4,7 @@
 #define	DEFAULT_MAX_TTL		30
 #define	DEFAULT_N_QUERIES	3
 #define	DEFAULT_PORT		33434
-#define DEFAULT_WAIT		5
+#define DEFAULT_WAIT		1
 #define	DEFAULT_FIRST_TTL	1
 
 typedef struct s_args
